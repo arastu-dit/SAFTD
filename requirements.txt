@@ -1,0 +1,10 @@
+dash
+scipy
+tweepy
+pandas
+nltk
+scikit-learn
+dash_core_components
+dash_html_components
+plotly
+dash_renderer
