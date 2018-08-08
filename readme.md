@@ -1,6 +1,5 @@
 # Sentiment Analysis of Twitter Data
-# Arastu Kumar
-# Final Year Project - DT228/4
+# Final Year Project
 
 ## Overview
 
